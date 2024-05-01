@@ -128,3 +128,4 @@ venv.bak/
 .dmypy.json
 dmypy.json!/docs/build/
 docs/build/
+/docs/build/
