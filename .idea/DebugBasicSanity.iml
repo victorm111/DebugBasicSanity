@@ -5,6 +5,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/debug_basic_sanity" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/docs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/source" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/source/_static" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/source/_templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/source/modules" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/docs/source/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/f" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/5/5" />
       <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/7/9" />
@@ -33,10 +39,6 @@
       <excludeFolder url="file://$MODULE_DIR$/.tox(PATH)/readme/log" />
       <excludeFolder url="file://$MODULE_DIR$/.tox(PATH)/readme/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/docs/build" />
-      <excludeFolder url="file://$MODULE_DIR$/docs/source/_static" />
-      <excludeFolder url="file://$MODULE_DIR$/docs/source/_templates" />
-      <excludeFolder url="file://$MODULE_DIR$/docs/source/modules" />
-      <excludeFolder url="file://$MODULE_DIR$/docs/source/src" />
       <excludeFolder url="file://$MODULE_DIR$/output" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />

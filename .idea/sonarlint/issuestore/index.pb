@@ -111,3 +111,5 @@ w
 G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
 w
 G.idea/sonarlint/issuestore/a/a/aaa49a4e0343f47de39287eb7a2e52fd1018059e,b\4\b42da4d3c15ff9b98102c03f9d184c79ba5507f9
+I
+docs/source/_static/dummy,0\b\0b31b15c47bda462f4e7c110aab50bc78d935c15
