@@ -6,6 +6,8 @@ output/
 .vscode/
 .idea/
 
+config.yaml
+
 # Vagrant
 .vagrant/
 
